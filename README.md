@@ -45,7 +45,6 @@ The objective of this project is to analyze Walmart's sales data to identify pat
 - **Pandas**: For data manipulation and analysis.
 - **NumPy**: For numerical computations.
 - **Matplotlib & Seaborn**: For data visualization.
-- **Scikit-learn**: For predictive modeling and machine learning.
 
 ## How to Run the Project
 
