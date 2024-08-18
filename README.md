@@ -45,6 +45,7 @@ The objective of this project is to analyze Walmart's sales data to identify pat
 - **Pandas**: For data manipulation and analysis.
 - **NumPy**: For numerical computations.
 - **Matplotlib & Seaborn**: For data visualization.
+- **Jupyter Notebook**: To create and share the analysis.
 
 ## How to Run the Project
 
